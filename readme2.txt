@@ -1,0 +1,2 @@
+本地运行打开LiquidMusic（切勿重复点击）
+局域网请打开launcher，本机浏览器输入localhost:3000，局域网设备需输入本机IP，按下win+r输入cmd，输入ipconfig查看本机IP
